@@ -37,8 +37,6 @@ node src/source.ts
 
 ## Output Format
 
-The output is saved as `output/news.json`, structured as follows:
-
 ```json
 {
   "country": ["https:", "https:"]
