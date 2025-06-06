@@ -1,0 +1,20 @@
+{
+  "name": "scrapenewssourcesbycountry",
+  "version": "1.0.0",
+  "description": "Scrape from duck duck go, the sources of news from all countries.",
+  "license": "MIT",
+  "author": "tom-avilius",
+  "type": "commonjs",
+  "main": "source.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.52.0",
+    "playwright-extra": "^4.3.6",
+    "playwright-extra-plugin-stealth": "^0.0.1"
+  }
+}
