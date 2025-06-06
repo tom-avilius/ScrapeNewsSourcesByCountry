@@ -1,6 +1,6 @@
 # ScrapeNewsSourcesByCountry
 
-This project automates the scraping of top news headlines from DuckDuckGo for every country in the world using Playwright. It parses a CSV file of countries and generates a JSON file with news headlines for each.
+This project automates the scraping of top news headlines from DuckDuckGo for every country in the world using Playwright. It parses a CSV file of countries and generates a JSON file with news sources for each.
 
 ---
 
